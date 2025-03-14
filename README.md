@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MAMAutoPoints
 
 MAMAutoPoints is a Windows Forms application that automates the spending of bonus points on MyAnonAMouse. It monitors your bonus point balance and, when conditions are met, automatically purchases upload credit—and optionally extends your VIP membership.
@@ -126,3 +127,7 @@ Contributions are welcome! To contribute:
 2. Create a new branch for your feature or bug fix:
    ```bash
    git checkout -b feature/YourFeatureName
+=======
+# ABS-Compare-Tool
+Compares ABS Library's for missing versions (ebook/audiobook)
+>>>>>>> f4f7eddfb431398cd1ec831ea67065f32284a326
